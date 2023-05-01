@@ -1,1 +1,1 @@
-# Todo-Django
+# Todoリストのコードです～
